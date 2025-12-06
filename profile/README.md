@@ -1,6 +1,6 @@
-# Axius SDC - Open Source Organization
+# Axius SDC, Inc.
 
-Welcome to the Axius SDC organization on GitHub! This repository contains community health files and default configurations for the Axius SDC organization.
+Welcome to the Axius SDC, Inc. organization on GitHub! This repository contains community health files and default configurations for the Axius SDC organization.
 
 ## 🌐 Company Website
 
