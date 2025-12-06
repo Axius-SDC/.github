@@ -19,7 +19,7 @@ Visit the website to explore how Axius SDC is revolutionizing data interoperabil
 
 **[https://github.com/SemanticDataCharter](https://github.com/SemanticDataCharter)**
 
-The Semantic Data Charter organization is our open-source initiative dedicated to advancing semantic data standards and interoperability. This organization hosts:
+The Semantic Data Charter organization is our open source initiative dedicated to advancing semantic data standards and interoperability. This organization hosts:
 
 - **SDC Specifications**: Open standards and specifications for semantic data management
 - **Reference Implementations**: Example implementations and libraries for working with semantic data charters
